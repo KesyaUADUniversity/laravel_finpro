@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_c0f5f8ea-f83f-4f11-85ca-179abc2ffa78",
+      "org_id": "user_41e86244-aea2-4c4a-b270-38316b4ba83f",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_c0f5f8ea-f83f-4f11-85ca-179abc2ffa78.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_c0f5f8ea-f83f-4f11-85ca-179abc2ffa78.git",
+      "name": "warunggenz-backend",
+      "alias": "warunggenz-backend"
+    }
+  ]
+}
