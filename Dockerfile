@@ -1,4 +1,4 @@
-﻿# Use PHP 8.2 FPM
+# Use PHP 8.2 FPM
 FROM php:8.2-fpm
 
 # Install system dependencies
@@ -27,7 +27,7 @@ WORKDIR /var/www/html
 COPY composer.json composer.lock ./
 
 # Install PHP dependencies (production only)
-RUN composer install --optimize-autoloader --no-dev
+RUN composer install --no-interaction --prefer-dist --optimize-autoloader
 
 # Copy all files
 COPY . .
