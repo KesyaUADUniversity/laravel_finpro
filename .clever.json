@@ -7,6 +7,14 @@
       "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_c0f5f8ea-f83f-4f11-85ca-179abc2ffa78.git",
       "name": "warunggenz-backend",
       "alias": "warunggenz-backend"
+    },
+    {
+      "app_id": "app_c9fbafbd-d321-42a6-ab7e-750e68969e8f",
+      "org_id": "user_41e86244-aea2-4c4a-b270-38316b4ba83f",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_c9fbafbd-d321-42a6-ab7e-750e68969e8f.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_c9fbafbd-d321-42a6-ab7e-750e68969e8f.git",
+      "name": "warunggenz-pos",
+      "alias": "warunggenz-pos"
     }
   ]
 }
